@@ -1,4 +1,4 @@
-# mi_primera_app — Semana 9, Aplicaciones Móviles (UNT)
+# mi_primera_app, Aplicaciones Móviles (UNT)
 
 App de ejemplo de la sesión: calcula el promedio de unidad del sílabo,
 PU = (2·EL + ET + 2·PT) / 5, usando los widgets básicos de Flutter
